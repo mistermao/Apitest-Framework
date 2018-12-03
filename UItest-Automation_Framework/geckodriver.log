@@ -1,0 +1,172 @@
+1523432293121	geckodriver	INFO	geckodriver 0.19.1
+1523432293128	geckodriver	INFO	Listening on 127.0.0.1:53175
+1523432295193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.9uLM3B3SYlU6"
+1523432295740	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523432296168	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523432297735	Marionette	INFO	Listening on port 53182
+1523432298461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523432298494	Marionette	DEBUG	Register listener.js for window 4294967297
+1523432298586	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523432298896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523432298896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523432300757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523432329720	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523434844527	geckodriver	INFO	geckodriver 0.19.1
+1523434844538	geckodriver	INFO	Listening on 127.0.0.1:53895
+1523434846615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.VNKptcpWGnbz"
+1523434847119	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523434847534	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523434849856	Marionette	INFO	Listening on port 53901
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523434850417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523434850448	Marionette	DEBUG	Register listener.js for window 4294967297
+1523434850527	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523434850851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523434850852	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523434852393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523434854471	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10160] WARN1523434876329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.hFnpKknd247Q"
+1523434876822	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523434877266	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523434878755	Marionette	INFO	Listening on port 53969
+1523434879537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523434879570	Marionette	DEBUG	Register listener.js for window 4294967297
+1523434879672	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523434879819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523434879820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523434881478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523434883232	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523434901961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523434903333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523434919092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523436102211	geckodriver	INFO	geckodriver 0.19.1
+1523436102219	geckodriver	INFO	Listening on 127.0.0.1:55070
+1523436104279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.vhB1SNpfrDNy"
+1523436104781	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523436105207	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523436106495	Marionette	INFO	Listening on port 55080
+1523436107452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523436107493	Marionette	DEBUG	Register listener.js for window 6442450945
+1523436107569	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523436107810	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523436107810	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523436109415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523436111481	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehrtest.source3g.com/h5/birthday/birthday.html"
+1523436111804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523436112034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523436112287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523436112526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523436112533	Marionette	INFO	New connections will no longer be accepted
+[Parent 1080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526611444926	geckodriver	INFO	geckodriver 0.20.1
+1526611444942	geckodriver	INFO	Listening on 127.0.0.1:61080
+1526611445955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.UAuEmuRtc9JV"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:44:09.936 plugin-container[18695:1579669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611450606	Marionette	INFO	Listening on port 61091
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:44:11.214 plugin-container[18696:1579766] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611554565	geckodriver	INFO	geckodriver 0.20.1
+1526611554581	geckodriver	INFO	Listening on 127.0.0.1:61130
+1526611555588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.xYwvmgpzjWpS"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:45:57.637 plugin-container[18723:1582220] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611558230	Marionette	INFO	Listening on port 61141
+1526611558245	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:45:59.228 plugin-container[18724:1582363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526611594395	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526611775096	geckodriver	INFO	geckodriver 0.20.1
+1526611775103	geckodriver	INFO	Listening on 127.0.0.1:61253
+1526611776126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.KHZQICNKYNOJ"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:49:37.670 plugin-container[18738:1585368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611778402	Marionette	INFO	Listening on port 61260
+1526611778451	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:49:38.956 plugin-container[18739:1585473] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526611810379	geckodriver	INFO	geckodriver 0.20.1
+1526611810386	geckodriver	INFO	Listening on 127.0.0.1:61343
+1526611811411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.SHeboHq5Y2GH"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:50:12.919 plugin-container[18745:1586068] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611813355	Marionette	INFO	Listening on port 61350
+1526611813402	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:50:13.927 plugin-container[18746:1586157] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611880986	geckodriver	INFO	geckodriver 0.20.1
+1526611881001	geckodriver	INFO	Listening on 127.0.0.1:61430
+1526611882010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.M7iFc4hB0k3p"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:51:23.468 plugin-container[18755:1587487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611884049	Marionette	INFO	Listening on port 61437
+1526611884101	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:51:24.579 plugin-container[18756:1587567] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611912084	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:52:15.103 plugin-container[18757:1588905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611941304	geckodriver	INFO	geckodriver 0.20.1
+1526611941311	geckodriver	INFO	Listening on 127.0.0.1:61522
+1526611942339	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7y/6h3psyw562nc321lnvg6c20w0000gn/T/rust_mozprofile.m3GDrS31U01J"
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:52:23.902 plugin-container[18763:1589254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526611944551	Marionette	INFO	Listening on port 61529
+1526611944605	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 10:52:25.208 plugin-container[18764:1589341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Unable to read VR Path Registry from /Users/tangbowen/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-18 11:05:48.753 plugin-container[18791:1602991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7347, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
